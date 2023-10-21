@@ -1,0 +1,1 @@
+document.write('<h1 class="bg-black text-white text-center container mt-4">La suma de 3 y 5 es: <span/ class="text-danger">' + (3 + 5) + '<span/></h2>');
